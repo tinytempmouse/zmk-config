@@ -65,7 +65,6 @@
         powwer_off {
             bindings = <&soft_off>;
             key-positions = <37 40 35>;
-            layers = <0>;
         };
     };
 
